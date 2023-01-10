@@ -1,0 +1,47 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "Image.arreferenceimage"
+    },
+    {
+      "filename" : "Image2.arreferenceimage"
+    },
+    {
+      "filename" : "Image3.arreferenceimage"
+    },
+    {
+      "filename" : "Image4.arreferenceimage"
+    },
+    {
+      "filename" : "Image5.arreferenceimage"
+    },
+    {
+      "filename" : "Image6.arreferenceimage"
+    },
+    {
+      "filename" : "Image7.arreferenceimage"
+    },
+    {
+      "filename" : "Image8.arreferenceimage"
+    },
+    {
+      "filename" : "Image9.arreferenceimage"
+    },
+    {
+      "filename" : "Image10.arreferenceimage"
+    },
+    {
+      "filename" : "Image11.arreferenceimage"
+    },
+    {
+      "filename" : "Image12.arreferenceimage"
+    },
+    {
+      "filename" : "Image13.arreferenceimage"
+    }
+  ]
+}
