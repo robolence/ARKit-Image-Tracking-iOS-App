@@ -16,6 +16,10 @@ Link: https://gsd6338.org/fall2022/projects/t-sandbox/index.html
 
 // Contents //
 
+Swift files are included in the PlaygroundAR folder, including the LoadModels file that loads the .usdz files and associated image files and returns to the ViewController that embeds the model data into the AR scene.
+
 // Instructions //
+
+Best practice is to number all of your models and images accordingly as shown in the demo folders. Make sure they are referenced in the xcode file. In addition, images should be included in the asset folder with a group name of your choosing- confirm that the name matches the 'groupName' variable pertinent to the loadModels() func.
 
 Feel free to email me if you have any additional questions at rnilsen@gsd.harvard.edu.
