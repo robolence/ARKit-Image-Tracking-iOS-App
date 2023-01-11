@@ -1,5 +1,5 @@
 # ARKit-Image-Tracking-iOS-App
-iOS App built in Swift with ARKit for Image Tracking capabilities
+iOS App built with Swift & ARKit for Image Tracking capabilities
 
 <img
   src="/README_img/README.jpg"
